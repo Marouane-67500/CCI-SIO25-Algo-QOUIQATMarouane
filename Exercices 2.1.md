@@ -3,5 +3,8 @@ Exercice 2.4
     nombre:réel
   Début
     ecrire (" nombre : ")
+    lire nombre
+    Si nombre >  0 Alors
+      Ecrire "Le nombre positif"
 
 
