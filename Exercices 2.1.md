@@ -12,6 +12,12 @@ Exercice 2.4
       Ecrire "Le nombre est egal à 0
     Fsi
   Fin
+Exercice 2.5 
+  Variables 
+    nombre1, nombre2 : reel 
+  Début
+    Ecrire "Entrer le premier nombre :"
+    Lire nombre1
     
 
 
