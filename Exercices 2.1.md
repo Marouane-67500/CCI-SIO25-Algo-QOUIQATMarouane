@@ -18,6 +18,11 @@ Exercice 2.5
   Début
     Ecrire "Entrer le premier nombre :"
     Lire nombre1
+
+    Ecrire "Entrer le deuxieme nombre :"
+    Lire nombre2
+
+    Si nombre 1 = 0 ou nombre2 = 0 Alors
     
 
 
