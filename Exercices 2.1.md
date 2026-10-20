@@ -23,6 +23,7 @@ Exercice 2.5
     Lire nombre2
 
     Si nombre 1 = 0 ou nombre2 = 0 Alors
-    
+      Ecrire "le produit est nul"
+    Sinon Si (nombre1 > 0 ET nombre2 > 0) OU (nombre1 < 0 ET nombre2 < 0) Alors    
 
 
