@@ -7,7 +7,11 @@ Exercice 2.4
     Si nombre >  0 Alors
       Ecrire "Le nombre positif"
     Sinon si nombre < 0 Alors
-      Ecrire "le nombre est negatif"
+      Ecrire "Le nombre est negatif"
+    Sinon 
+      Ecrire "Le nombre est egal à 0
+    Fsi
+  Fin
     
 
 
